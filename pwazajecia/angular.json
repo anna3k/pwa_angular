@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pwazajecia"
+    }
+  },
+  "defaultProject": "pwazajecia",
+  "cli": {
+    "analytics": "c045222d-c1dc-4489-bb00-6bb1fc4d7e8f"
+  }
 }
